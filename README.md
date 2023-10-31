@@ -39,7 +39,7 @@ print(result)
 
 
 ## Output :
-![o](
+![o](https://github.com/kaviyabalaji/Ex-No.-3--Implementation-of-Exact-Inference-Method-of-Bayesian-Network/blob/main/exp3.png)
 ## Result :  
 Hence the implementation of Exact Inference Method of Bayesian Network Is implemented Successfully.
 
